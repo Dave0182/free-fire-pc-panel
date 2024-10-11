@@ -8,7 +8,7 @@ The Free Fire PC Panel includes a variety of undetected features to enhance your
 
 | Feature                           | Status          |
 |-----------------------------------|-----------------|
-| 🎯 **Aimbot**                     | Undetected      |
+| 🎯 **Aimbot**                     | detected      |
 | 👁️ **ESP**                        | Undetected      |
 | 🛠️ **Exploits**                   | Undetected      |
 | 🌀 **Misc**                        | Undetected      |
@@ -17,8 +17,8 @@ The Free Fire PC Panel includes a variety of undetected features to enhance your
 | 🎯 **Aimbot Bone**                | Undetected      |
 | 🎯 **Aimbot Prediction**          | Undetected      |
 | 🧩 **Box ESP**                    | Undetected      |
-| 🤸 **Aim While Jumping**          | Undetected      |
-| ⏲️ **No Weapon Switch Delay**     | Undetected      |
+| 🤸 **Aim While Jumping**          | detected      |
+| ⏲️ **No Weapon Switch Delay**     | detected      |
 | 🚫 **No Spread**                  | Undetected      |
 | ⚡ **Rapid Fire**                 | Undetected      |
 | 🕹️ **Trigger Bot**                | Undetected      |
